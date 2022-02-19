@@ -1,0 +1,11 @@
+{
+    "botToken": "",
+    "prefix": "?",
+    "relayMode": "NC",
+    "toggleTimeSeconds": 5,
+    "admins": [""],
+    "commandChannels": [""],
+    "deleteResultsSeconds": 60,
+    "noProtoAutoCycle": false,
+    "noProtoChannels": [""]
+}

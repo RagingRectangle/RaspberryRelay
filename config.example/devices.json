@@ -1,0 +1,65 @@
+[{
+    "relay": 1,
+    "device": "",
+    "gpio": 1
+}, {
+    "relay": 2,
+    "device": "",
+    "gpio": 2
+}, {
+    "relay": 3,
+    "device": "",
+    "gpio": 3
+}, {
+    "relay": 4,
+    "device": "",
+    "gpio": 4
+}, {
+    "relay": 5,
+    "device": "",
+    "gpio": 5
+}, {
+    "relay": 6,
+    "device": "",
+    "gpio": 6
+}, {
+    "relay": 7,
+    "device": "",
+    "gpio": 7
+}, {
+    "relay": 8,
+    "device": "",
+    "gpio": 8
+}, {
+    "relay": 9,
+    "device": "",
+    "gpio": 9
+}, {
+    "relay": 10,
+    "device": "",
+    "gpio": 10
+}, {
+    "relay": 11,
+    "device": "",
+    "gpio": 11
+}, {
+    "relay": 12,
+    "device": "",
+    "gpio": 12
+}, {
+    "relay": 13,
+    "device": "",
+    "gpio": 13
+}, {
+    "relay": 14,
+    "device": "",
+    "gpio": 14
+}, {
+    "relay": 15,
+    "device": "",
+    "gpio": 15
+}, {
+    "relay": 16,
+    "device": "",
+    "gpio": 16
+}]
