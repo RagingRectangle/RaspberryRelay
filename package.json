@@ -1,7 +1,7 @@
 {
   "name": "raspberryrelay",
   "version": "1.0.0",
-  "description": "Discord GPIO controller for MAD devices with optional integration into MadGruber for automatic power cycling.",
+  "description": "Discord GPIO controller for MAD devices with optional integration into MadGruber for auto power cycling of noProto devices.",
   "main": "relay.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
